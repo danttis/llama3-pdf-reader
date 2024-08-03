@@ -1,4 +1,7 @@
 # llama3-pdf-reader
+
+![](example.jpg)
+
 Esse projeto mostra como a interação simples de um modelo LLM com PDFs permite responder perguntas sobre seu conteúdo.   
 Esse projeto usa como base dois outros projetos: [AI-Data-Analyzer](https://github.com/danttis/AI-Data-Analyzer/) e [ChatBot-Ollama](https://github.com/danttis/ChatBot-Ollama).
 
